@@ -42,7 +42,19 @@ Analyzed global e-commerce sales performance and created visualizations to ident
 
 ## 📜 Certifications
 
-**Google Data Analytics Professional Certificate**
+• Google Data Analytics Professional Certificate — Google / Coursera | October 2026 
+• Google AI Professional Certificate — Google / Coursera | September 2026 
+• Data Analytics Essentials — Cisco Networking Academy | September 2026 
+• Introduction to Data Science — Cisco Networking Academy | August 2026 
+• Microsoft Power BI Data Analyst Professional Certificate — In Progress
+
+
+EDUCATION 
+San Jacinto College | Houston, TX 
+• Associate Degree in Science 
+• Associate Degree in General Studies 
+
+
 
 ## 📫 Connect With Me
 
